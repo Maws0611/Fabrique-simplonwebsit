@@ -1,0 +1,39 @@
+.logo{
+	 position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  border-radius: calc(0.25rem - 1px);
+  width: 150px;
+}
+.link_social{
+color: #D60028;
+display: inline-block;
+}
+button{
+	border-radius: 50px
+}
+.chiffre{
+	background-image: url(/home/asta/Téléchargements/chiffre.png);
+	width: 100 px;
+	height: 500%;
+}
+.donnés{
+	display: inline-flex;
+	position: absolute;
+	text-align: center;
+}
+.footer{
+	background-image: url(/home/asta/Téléchargements/FOOTER.png);
+}
+.footer1{
+	background:  #D60028;
+}
+.titre{
+	color: #D60028;
+}
+body{
+	font-family: Nunito Sans, sans-serif;
+}
